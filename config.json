@@ -1,0 +1,45 @@
+{
+    "language": "en",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "adminOnly": true,
+    "keyAdminOnly": "",
+    "commandDisabled": [
+        "",
+        ""
+    ],
+    "eventDisabled": [],
+    "EMAIL": "newmail.pag@gmail.com",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "shinchan's bot",
+    "PREFIX": "#",
+    "ADMINBOT": [
+        "100009593303125",
+        "100009593303125",
+        "100089985795342",
+        "",
+        "",
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "appstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 OPR/84.0.4316.21"
+    },
+    "version": "1.2.14",
+    "help": {
+        "autoUnsend": "",
+        "delayUnsend": 60
